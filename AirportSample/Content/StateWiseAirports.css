@@ -1,0 +1,54 @@
+﻿
+
+
+
+#actlink {
+    background-color: #2E86C1;
+    color: azure;
+    padding: 13px;
+    padding-bottom: 0px;
+    margin-left: 10px;
+    border-radius: 3px 4px;
+}
+
+    #actlink:hover {
+        background-color: #2471A3;
+    }
+
+#listname {
+    font-size: 30px;
+    font-weight: 700;
+    color: #F1C40F;
+}
+
+    #listname:hover {
+        color: white;
+    }
+
+a {
+    color: #fafafb;
+    margin-bottom: 0px;
+    text-decoration: none;
+    padding-bottom: 0px;
+    font-weight: 600;
+}
+
+    a:hover {
+        color: white;
+        margin-bottom: 0px;
+        text-decoration: none;
+    }
+
+#actlink {
+    background: #3498DB;
+    color: azure;
+    border-radius: 4px 5px;
+    padding: 3px;
+    padding-bottom: 3px;
+    font-size: 15px;
+}
+/*
+a {
+    color: white;
+    text-decoration: none;
+}*/
